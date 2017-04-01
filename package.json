@@ -1,6 +1,6 @@
 {
-  "name": "angular2-materialize",
-  "description": "Angular 2 support for Materialize CSS framework",
+  "name": "angular-plus-materialize",
+  "description": "Angular 2 & higher support for Materialize CSS framework",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -18,40 +18,43 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/InfomediaLtd/angular2-materialize.git"
+    "url": "https://github.com/thcheng/angular-plus-materialize.git"
   },
   "keywords": [
     "angular",
     "angular2",
     "angular 2",
+    "angular +",
+    "angular plus",
     "materialize",
     "materializecss",
     "materialize-css",
     "materialize css"
   ],
-  "author": "Ruby Boyarski <rubyboy@gmail.com>",
+  "author": "Ruby Boyarski <rubyboy@gmail.com>; Timothy Cheng <timothythcheng@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/InfomediaLtd/angular2-materialize/issues"
   },
-  "homepage": "https://github.com/InfomediaLtd/angular2-materialize#readme",
+  "homepage": "https://github.com/thcheng/angular-plus-materialize",
   "dependencies": {
-    "@angular/forms": "^2.0.1"
+    "@angular/forms": "^4.0.0"
   },
   "peerDependencies": {
     "materialize-css": "^0.97.8",
-    "@angular/common": "^2.1.2",
-    "@angular/core": "^2.1.2"
+    "@angular/common": "^4.0.0",
+    "@angular/core": "^4.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^2.1.2",
-    "@angular/compiler": "^2.1.2",
-    "@angular/compiler-cli": "^2.1.2",
-    "@angular/core": "^2.1.2",
-    "@angular/platform-browser": "^2.1.2",
-    "@angular/platform-browser-dynamic": "^2.1.2",
-    "@angular/platform-server": "^2.1.2",
-    "@angular/router": "^3.1.2",
+    "@angular/animations": "^4.0.1",
+    "@angular/common": "^4.0.0",
+    "@angular/compiler": "^4.0.0",
+    "@angular/compiler-cli": "^4.0.0",
+    "@angular/core": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/platform-server": "^4.0.0",
+    "@angular/router": "^4.0.0",
     "commitizen": "^2.4.6",
     "css-loader": "^0.23.1",
     "cz-conventional-changelog": "^1.1.5",
@@ -78,10 +81,10 @@
     "ts-loader": "^0.8.1",
     "tsc": "^1.20150623.0",
     "tsd": "^0.6.5",
-    "typescript": "^2.0.0",
+    "typescript": "^2.2.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.14",
-    "zone.js": "^0.7.2"
+    "zone.js": "^0.8.4"
   },
   "config": {
     "commitizen": {
@@ -95,13 +98,13 @@
   "jspm": {
     "dependencies": {},
     "devDependencies": {
-      "@angular/common": "npm:@angular/common@^2.1.2",
-      "@angular/compiler": "npm:@angular/compiler@^2.1.2",
-      "@angular/core": "npm:@angular/core@^2.1.2",
-      "@angular/forms": "npm:@angular/forms@^2.1.2",
-      "@angular/platform-browser": "npm:@angular/platform-browser@^2.1.2",
-      "@angular/platform-browser-dynamic": "npm:@angular/platform-browser-dynamic@^2.1.2",
-      "@angular/router": "npm:@angular/router@^3.0.0",
+      "@angular/common": "npm:@angular/common@^4.0.0",
+      "@angular/compiler": "npm:@angular/compiler@^4.0.0",
+      "@angular/core": "npm:@angular/core@^4.0.0",
+      "@angular/forms": "npm:@angular/forms@^4.0.0",
+      "@angular/platform-browser": "npm:@angular/platform-browser@^4.0.0",
+      "@angular/platform-browser-dynamic": "npm:@angular/platform-browser-dynamic@^4.0.0",
+      "@angular/router": "npm:@angular/router@^4.0.0",
       "clean-css": "npm:clean-css@^3.4.9",
       "crypto": "github:jspm/nodelibs-crypto@^0.1.0",
       "css": "github:systemjs/plugin-css@^0.1.20",
