@@ -1,7 +1,7 @@
 {
   "name": "angular-plus-materialize",
-  "versoin": "1.0.0",
-  "description": "Angular 2 & higher support for Materialize CSS framework.  Forked from angular2-materialize",
+  "version": "1.0.1",
+  "description": "Angular 2 & higher support for Materialize CSS framework.  Forked from angular2-materialize.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {

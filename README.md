@@ -1,17 +1,9 @@
-# Angular2 Materialize
+# Angular+ Materialize
 
-[![travis build](https://img.shields.io/travis/InfomediaLtd/angular2-materialize.svg?style=flat-square)](https://travis-ci.org/InfomediaLtd/angular2-materialize)
-[![version](https://img.shields.io/npm/v/angular2-materialize.svg?style=flat-square)](https://www.npmjs.com/package/angular2-materialize)
-[![downloads](https://img.shields.io/npm/dm/angular2-materialize.svg?style=flat-square)](https://www.npmjs.com/package/angular2-materialize)
-[![MIT Licence](https://img.shields.io/npm/l/angular2-materialize.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![NPM](https://nodei.co/npm/angular2-materialize.png?downloads=true)](https://www.npmjs.com/package/angular2-materialize)
-[![NPM](https://nodei.co/npm-dl/angular2-materialize.png?height=2&months=12)](https://www.npmjs.com/package/angular2-materialize)
+Angular 2 & above support for Materialize CSS framework [http://materializecss.com/](http://materializecss.com/)
 
-Angular 2 support for Materialize CSS framework [http://materializecss.com/](http://materializecss.com/)
+#### This repository/package including the instruction below is forked form angular2-materialize with minimum changes to support Angular 4.0.0 released on March 23, 2017.
 
 This library adds support for the Materialize CSS framework in Angular 2. It is needed to add the dynamic behavior of Materialize CSS that is using JavaScript rather than plain CSS.
 
