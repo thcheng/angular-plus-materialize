@@ -5,6 +5,8 @@ Angular 2 & above support for Materialize CSS framework [http://materializecss.c
 
 #### This repository/package including the instruction below is forked form angular2-materialize with minimum changes to support Angular 4.0.0 released on March 23, 2017.
 
+## 
+
 This library adds support for the Materialize CSS framework in Angular 2. It is needed to add the dynamic behavior of Materialize CSS that is using JavaScript rather than plain CSS.
 
 View demo here: [http://angular2-materialize.surge.sh](http://angular2-materialize.surge.sh/)
