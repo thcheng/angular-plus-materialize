@@ -3,7 +3,7 @@
 
 Angular 2 & above support for Materialize CSS framework [http://materializecss.com/](http://materializecss.com/)
 
-#### This repository/package including the instruction below is forked form angular2-materialize with minimum changes to support Angular 4.0.0 released on March 23, 2017.
+#### This repository/package including the instruction below is forked from angular2-materialize with minimum changes to support Angular 4.0.0 released on March 23, 2017.
 
 ## 
 
